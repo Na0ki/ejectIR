@@ -1,4 +1,4 @@
 ejectIR
 =======
 
-written in python
+Using SY-852_ as IRsensor<br>
