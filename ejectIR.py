@@ -12,7 +12,7 @@ while 1:
 	if GPIO.input(4):
 		os.system("eject")
 		print "Welcome to my room!!"
-		time.sleep(5)
+		time.sleep(1)
 		os.system("eject -t")
 		continue
 	else:
